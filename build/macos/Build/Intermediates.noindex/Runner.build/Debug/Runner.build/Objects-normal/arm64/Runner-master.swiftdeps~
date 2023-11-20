@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "267667d91d2c7654a9507f0709504231e6ec8b31981c13f8b97656757c57ff88"
+build_start_time: [1700421373, 423822000]
+build_end_time: [1700421373, 477400000]
+inputs:
+  "/Users/hira/Documents/Projects/flutter/ebook_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1700421360, 472860024]
+  "/Users/hira/Documents/Projects/flutter/ebook_app/macos/Runner/AppDelegate.swift": !private [1698270344, 0]
+  "/Users/hira/Documents/Projects/flutter/ebook_app/macos/Runner/MainFlutterWindow.swift": !private [1698270344, 0]
